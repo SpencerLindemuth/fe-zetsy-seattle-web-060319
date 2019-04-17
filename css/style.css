@@ -66,3 +66,15 @@ p {
     border: 5px #ccc solid;
     padding: 1px;
 }
+
+footer {
+  text-align: right;
+  background: #fff;
+}
+
+.small {
+  font-size: 0.8em;
+  margin: 0 0 20px 0;
+}
+
+
