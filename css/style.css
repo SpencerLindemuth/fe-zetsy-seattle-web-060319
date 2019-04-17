@@ -57,3 +57,8 @@ p {
   color: #3284bd;
   text-decoration: none;
 }
+
+#featured a:hover {
+  color: #3284bd;
+  text-decoration: underline;
+}
